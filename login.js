@@ -1,1 +1,1 @@
-console.log('This is the login page');
+console.log('This is the login page!');
